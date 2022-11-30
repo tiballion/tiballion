@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 👋, I'm Timothée
+### A computer science student based in Bordeaux, France 📌
+- 🔭 Currently looking for an internship
+- 📖 Currently learning _Javascript_ and _Javascript Web Frameworks_
+- 📫 Reach me at **timothee.ballion.33@gmail.com**
 
 <!--
 **tiballion/tiballion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
