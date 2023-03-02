@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Timothée Ballion </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile;Computer+science+student)](https://git.io/typing-svg)
+	<img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile;Computer+science+student"/>
 </p>
 
 <br>
